@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易經蒙引
-#+DATE: 2015-09-23 09:35:05
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:57:24.321622
+#+PROPERTY: ID KR1a0092
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十上
 <pb:KR1a0092_WYG_010-1a>¶
 欽定四庫全書¶
 　易經蒙引卷十上¶
@@ -1107,6 +1109,7 @@
 　¶
 　¶
 　易經蒙引卷十上¶
+#+PROPERTY: JUAN 卷十下
 <pb:KR1a0092_WYG_010-64a>¶
 欽定四庫全書¶
 　易經蒙引卷十下¶
@@ -2046,4 +2049,3 @@
 　之字各有所承也黙則不言信則成矣信則一一皆¶
 　實也非徒能言說者也¶
 　易經蒙引卷十下¶
-

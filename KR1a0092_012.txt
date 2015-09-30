@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易經蒙引
-#+DATE: 2015-09-23 09:35:05
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 21:57:24.408049
+#+PROPERTY: ID KR1a0092
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二上
 <pb:KR1a0092_WYG_012-1a>¶
 欽定四庫全書¶
 　易經蒙引卷十二上¶
@@ -704,6 +706,7 @@
 　觀之則有為馬為首之類為父母為男女之属也¶
 　¶
 　易經䝉引卷十二上¶
+#+PROPERTY: JUAN 卷十二下
 <pb:KR1a0092_WYG_012-40a>¶
 欽定四庫全書¶
 　易經蒙引卷十二下¶
@@ -2036,4 +2039,3 @@
 　¶
 　¶
 　易經䝉引卷十二下¶
-

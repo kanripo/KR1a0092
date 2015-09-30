@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易經蒙引
-#+DATE: 2015-09-23 09:35:05
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:57:23.968176
+#+PROPERTY: ID KR1a0092
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二上
 <pb:KR1a0092_WYG_002-1a>¶
 欽定四庫全書¶
 　易經䝉引卷二上¶
@@ -1064,6 +1066,7 @@
 　¶
 　¶
 　易經䝉引卷二上¶
+#+PROPERTY: JUAN 卷二中
 <pb:KR1a0092_WYG_002-60a>¶
 欽定四庫全書¶
 　易經䝉引卷二中¶
@@ -2216,6 +2219,7 @@
 　¶
 　¶
 　易經䝉引卷二中¶
+#+PROPERTY: JUAN 卷二下 
 <pb:KR1a0092_WYG_002-124a>¶
 欽定四庫全書¶
 　易經䝉引卷二下¶
@@ -3170,4 +3174,3 @@
 　¶
 　¶
 　易經䝉引卷二下¶
-
